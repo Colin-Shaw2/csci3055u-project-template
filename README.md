@@ -11,12 +11,13 @@
 > - Some interesting features
 
 ## About the syntax
-
->object HelloWorld {
+```scala
+object HelloWorld {
   def main(args: Array[String]): Unit = {
     println("Hello, world!")
   }
 }
+```
 *Let form*
 
 ```clojure
