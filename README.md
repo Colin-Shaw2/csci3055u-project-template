@@ -1,7 +1,7 @@
-# _Your project title_
+# _Scala_
 
-- _your name_
-- _your email (uoit.net)_
+- _Colin Shaw_
+- _colin.shaw2@uoit.net_
 
 ## About the language
 
@@ -12,8 +12,11 @@
 
 ## About the syntax
 
-> _give some code snippet of the language_
-
+>object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
 *Let form*
 
 ```clojure
