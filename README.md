@@ -36,7 +36,7 @@ def myFunc(x: Int, y:Int) = {
 
 ## About the tools
 
-> _Describe the compiler or interpreter needed_.
+> _Scala is designed to work with the Javac compiler_.
 
 ## About the standard library
 
